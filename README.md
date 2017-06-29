@@ -1,0 +1,2 @@
+# LinuxC
+sample code
